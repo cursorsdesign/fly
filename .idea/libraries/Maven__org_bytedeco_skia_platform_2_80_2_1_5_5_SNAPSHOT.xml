@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco:skia-platform:2.80.2-1.5.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/skia-platform/2.80.2-1.5.5-SNAPSHOT/skia-platform-2.80.2-1.5.5-20201208.062829-40.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/skia-platform/2.80.2-1.5.5-SNAPSHOT/skia-platform-2.80.2-1.5.5-20201208.062829-40-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/skia-platform/2.80.2-1.5.5-SNAPSHOT/skia-platform-2.80.2-1.5.5-20201208.062829-40-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

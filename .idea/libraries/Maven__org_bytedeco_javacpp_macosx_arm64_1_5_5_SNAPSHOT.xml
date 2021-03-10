@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco:javacpp:macosx-arm64:1.5.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp/1.5.5-SNAPSHOT/javacpp-1.5.5-20210302.082335-724-macosx-arm64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp/1.5.5-SNAPSHOT/javacpp-1.5.5-20210302.082335-724-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp/1.5.5-SNAPSHOT/javacpp-1.5.5-20210302.082335-724-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
