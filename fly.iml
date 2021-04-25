@@ -11,48 +11,30 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.jetbrains.skija:skija-linux:0.89.32" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.skija:skija-shared:0.89.32" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.16" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.skija:skija-linux:0.89.36" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.skija:skija-shared:0.89.36" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.graalvm.sdk:graal-sdk:21.0.0" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:skia-platform:2.80.2-1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp-platform:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:android-arm:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:android-arm64:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:android-x86:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:android-x86_64:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:ios-arm64:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:ios-x86_64:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:linux-armhf:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:linux-arm64:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:linux-ppc64le:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:linux-x86:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:linux-x86_64:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:macosx-arm64:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:macosx-x86_64:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:windows-x86:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:windows-x86_64:1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:skia:2.80.2-1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:skia:ios-arm64:2.80.2-1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:skia:ios-x86_64:2.80.2-1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:skia:linux-x86:2.80.2-1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:skia:linux-x86_64:2.80.2-1.5.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.bytedeco:skia:macosx-x86_64:2.80.2-1.5.5-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-assimp:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-glfw:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-openal:3.2.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-opencl:3.2.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-opengl:3.2.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-shaderc:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-stb:3.2.4-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-vulkan:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-yoga:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl:natives-linux:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-assimp:natives-linux:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-glfw:natives-linux:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-openal:natives-linux:3.2.4-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-stb:natives-linux:3.2.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-opengl:natives-linux:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-shaderc:natives-linux:3.2.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-stb:natives-linux:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-yoga:natives-linux:3.2.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.joml:joml:1.10.0" level="project" />
-    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-shaderc:3.2.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.12.0" level="project" />
+    <orderEntry type="library" name="Maven: org.reflections:reflections:0.9.12" level="project" />
+    <orderEntry type="library" name="Maven: org.javassist:javassist:3.26.0-GA" level="project" />
   </component>
 </module>
